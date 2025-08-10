@@ -1,0 +1,14 @@
+name: CatCrossbowCannon
+version: 1.0
+main: com.example.CatCrossbowCannon
+api-version: 1.20
+description: 一个能发射爆炸猫咪的连弩炮插件
+commands:
+  catcannon:
+    description: 获取猫咪连弩炮
+    usage: /catcannon
+    permission: catcannon.use
+permissions:
+  catcannon.use:
+    description: 允许使用猫咪连弩炮
+    default: op
