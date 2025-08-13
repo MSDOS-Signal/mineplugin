@@ -1,3 +1,4 @@
+# （防止有的人不知道，插件在targer文件夹里，Cat开头的）
 # 猫咪连弩炮 (Cat Crossbow Cannon)
 
 一个有趣的Minecraft Spigot插件，可以发射爆炸猫咪！适用于Minecraft 1.20.1版本。
